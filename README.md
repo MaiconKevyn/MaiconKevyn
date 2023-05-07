@@ -1,6 +1,4 @@
-### Olá! eu sou o Maicon Kevyn.
-
-
+Olá! eu sou o Maicon Kevyn.
 Atualmente, sou aluno do 5º semestre de Astrofísica na UFRGS e estou me dedicando ao estudo de Data Science com o objetivo de aplicar para vagas na área.
 
 
