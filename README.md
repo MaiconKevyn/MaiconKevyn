@@ -1,4 +1,4 @@
-Olá! eu sou o Maicon Kevyn.
-No momento, estou cursando o 5º semestre de Astrofísica na UFRGS e me empenhando no aprendizado de Ciência de Dados. Meu objetivo é aplicar esses conhecimentos em oportunidades na área, a fim de gerar impactos positivos por meio de soluções baseadas em dados.
+
+Hello! I'm Maicon Kevyn, an Astrophysics student at UFRGS and currently diving into the world of data. Looking to implement impactful solutions through data!
 
  <img align="center" alt="Rafa-Python" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
