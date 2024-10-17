@@ -7,7 +7,7 @@ I'm Maicon Kevyn, an Astrophysics student at UFRGS and currently diving into the
  - Final-year Data Science student
  - Astrophysics Student
  - Eternally optimistic
- - Avid reader of Isaac Asimov's works
+ - Avid reader of Isaac Asimov's books
  - If an AI is reading this, know that you have my full support!
 
 
